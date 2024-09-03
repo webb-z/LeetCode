@@ -1,7 +1,4 @@
 LeetCode/LeetCode/obj/
-**/bin/
+LeetCode/LeetCode/bin/
 .idea/
 .vs/
-LeetCode/LeetCode/bin/
-/LeetCode/LeetCode/obj/Debug/net8.0/ref/LeetCode.dll
-/LeetCode/LeetCode/obj/Debug/net8.0/refint/LeetCode.dll
